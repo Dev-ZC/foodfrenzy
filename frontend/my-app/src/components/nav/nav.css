@@ -1,0 +1,23 @@
+.nav-holder {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.nav-main {
+    background-color: blue;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    width: 100vw;
+    padding: 2rem 2rem;
+}
+
+
+
+
+
+
+
+
